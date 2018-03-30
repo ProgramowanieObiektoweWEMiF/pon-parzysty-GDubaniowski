@@ -1,0 +1,11 @@
+zwa: LED XXX CUBE 9000
+
+Celem projektu jest stworzenia oprogramowania umożliwiającego sterowanie matrycą złożoną z diod RGB
+
+
+Założenia:
+
+    Matryca złożona z diod RGB o wymiarach 3x3x3
+    Sterowaniem diod odbywać będzie się za pomocą mikrokontrolera arduino nano
+    Oprogramowanie umożliwia wczytanie z pliku txt animacji
+    Oprogramowanie umożliwia testowanie matrycy poprzez zapalenie konkretnie wybranych diod

@@ -1,0 +1,10 @@
+D:\Dokumenty\Uczelnia\III Rok\VI Semestr\programowanie obiektowe\Weather XXX Station 9000\Weather XXX Station 9000\Weather XXX Station 9000\bin\Debug\Weather XXX Station 9000.exe.config
+D:\Dokumenty\Uczelnia\III Rok\VI Semestr\programowanie obiektowe\Weather XXX Station 9000\Weather XXX Station 9000\Weather XXX Station 9000\bin\Debug\Weather XXX Station 9000.exe
+D:\Dokumenty\Uczelnia\III Rok\VI Semestr\programowanie obiektowe\Weather XXX Station 9000\Weather XXX Station 9000\Weather XXX Station 9000\bin\Debug\Weather XXX Station 9000.pdb
+D:\Dokumenty\Uczelnia\III Rok\VI Semestr\programowanie obiektowe\Weather XXX Station 9000\Weather XXX Station 9000\Weather XXX Station 9000\obj\Debug\Weather XXX Station 9000.csprojAssemblyReference.cache
+D:\Dokumenty\Uczelnia\III Rok\VI Semestr\programowanie obiektowe\Weather XXX Station 9000\Weather XXX Station 9000\Weather XXX Station 9000\obj\Debug\Weather_XXX_Station_9000.Form1.resources
+D:\Dokumenty\Uczelnia\III Rok\VI Semestr\programowanie obiektowe\Weather XXX Station 9000\Weather XXX Station 9000\Weather XXX Station 9000\obj\Debug\Weather_XXX_Station_9000.Properties.Resources.resources
+D:\Dokumenty\Uczelnia\III Rok\VI Semestr\programowanie obiektowe\Weather XXX Station 9000\Weather XXX Station 9000\Weather XXX Station 9000\obj\Debug\Weather XXX Station 9000.csproj.GenerateResource.cache
+D:\Dokumenty\Uczelnia\III Rok\VI Semestr\programowanie obiektowe\Weather XXX Station 9000\Weather XXX Station 9000\Weather XXX Station 9000\obj\Debug\Weather XXX Station 9000.csproj.CoreCompileInputs.cache
+D:\Dokumenty\Uczelnia\III Rok\VI Semestr\programowanie obiektowe\Weather XXX Station 9000\Weather XXX Station 9000\Weather XXX Station 9000\obj\Debug\Weather XXX Station 9000.exe
+D:\Dokumenty\Uczelnia\III Rok\VI Semestr\programowanie obiektowe\Weather XXX Station 9000\Weather XXX Station 9000\Weather XXX Station 9000\obj\Debug\Weather XXX Station 9000.pdb
